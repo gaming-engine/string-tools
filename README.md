@@ -1,10 +1,10 @@
-# PHP String Tools 
+# PHP String Tools
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/gaming-engine/string-tools.svg?style=flat-square)](https://packagist.org/packages/gaming-engine/string-tools)
-[![Total Downloads](https://img.shields.io/packagist/dt/gaming-engine/dictionary.svg?style=flat-square)](https://packagist.org/packages/gaming-engine/string-tools)
+[![Total Downloads](https://img.shields.io/packagist/dt/gaming-engine/string-tools.svg?style=flat-square)](https://packagist.org/packages/gaming-engine/string-tools)
 ![GitHub Actions](https://github.com/gaming-engine/string-tools/actions/workflows/main.yml/badge.svg)
 
-A quick and easy helper for handling templated strings in PHP. 
+A quick and easy helper for handling templated strings in PHP.
 
 ## Installation
 
@@ -48,8 +48,8 @@ If you discover any security related issues, please email awjudd@gmail.com inste
 
 ## Credits
 
--   [Andrew Judd](https://github.com/gaming-engine)
--   [All Contributors](../../contributors)
+- [Andrew Judd](https://github.com/gaming-engine)
+- [All Contributors](../../contributors)
 
 ## License
 
